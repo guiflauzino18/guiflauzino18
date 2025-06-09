@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 🔭 Atualmente trabalhando em um projeto pessoal chamado Gragorian
 - 🌱 Aprendendo sobre DevOPS, SRE e Ferramentas associadas
 - 🏢 Atualmente atuando como Analista de Infraestrutura
+- #️⃣ https://www.linkedin.com/in/guilhermeflauzino/
