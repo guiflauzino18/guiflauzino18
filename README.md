@@ -1,23 +1,7 @@
 ## Olá, sou o Guilherme 👋
 
-<!--
-**guiflauzino18/guiflauzino18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🔭 Atualmente trabalhando em um projeto pessoal chamado Gragorian
-- 🌱 Aprendendo sobre DevOPS, SRE e Ferramentas associadas
-- 🏢 Atualmente atuando como Analista de Infraestrutura
-- #️⃣ https://www.linkedin.com/in/guilhermeflauzino/
+- Trabalhando em um projeto pessoal chamado Gregorian
+- Atualmente atuando como Analista de Infraestrutura On-Premise e Cloud AWS
+- FullStack: Java, Go, Typescript, Angular, React.
+- https://www.linkedin.com/in/guilhermeflauzino
