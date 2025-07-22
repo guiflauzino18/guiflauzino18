@@ -20,7 +20,22 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D50000?style=for-the-badge&logo=zabbix&logoColor=white)
 
 
 ### **Estatísticas do GitHub:**  
-![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=guiflauzino18&show_icons=true&theme=dracula)
+![Stats](https://github-readme-stats.vercel.app/api?username=guiflauzino18&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiflauzino18&layout=compact&theme=dracula)
+
+
+### Projetos
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=guiflauzino18&repo=gregorian-api&theme=dracula&description=API+para+agendamento+em+Java+e+Spring+Boot)](https://github.com/guiflauzino18/gregorian-api)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=guiflauzino18&repo=AwsS3Actions&theme=dracula)](https://github.com/guiflauzino18/AwsS3Actions)
+
+```mermaid
+pie title Linguagens Favoritas
+    "Java" : 60
+    "Go" : 20
+    "Typescript" : 20
+```
