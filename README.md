@@ -2,7 +2,11 @@
 
 - FullStack: Java, Go, Typescript, Angular, React.
 - Analista de Infraestrutura On-premise e Cloud AWS
-- https://www.linkedin.com/in/guilhermeflauzino
+- Poços de Caldas - MG, Brasil  
+- Aprendendo: IA, n8n, LMMs
+<a href="https://linkedin.com/in/guilhermeflauzino">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 ### Tecnologias e Ferramentas
 #### Programação
