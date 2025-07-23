@@ -2,6 +2,7 @@
 
 - FullStack: Java, Go, Typescript, Angular, React.
 - Analista de Infraestrutura On-premise e Cloud AWS
+- AWS Certified
 - Poços de Caldas - MG, Brasil  
 - Aprendendo: IA, n8n, LMMs
 <a href="https://linkedin.com/in/guilhermeflauzino">
