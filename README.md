@@ -43,6 +43,7 @@
 ### Projetos
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=guiflauzino18&repo=gregorian-api&theme=dracula&description=API+para+agendamento+em+Java+e+Spring+Boot)](https://github.com/guiflauzino18/gregorian-api)
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=guiflauzino18&repo=AwsS3Actions&theme=dracula)](https://github.com/guiflauzino18/AwsS3Actions)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=guiflauzino18&repo=IAssistentChat&theme=dracula)](https://github.com/guiflauzino18/IAssistentChat)
 
 ```mermaid
 pie title Linguagens Favoritas
