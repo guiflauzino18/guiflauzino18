@@ -4,7 +4,6 @@
 - Analista de Infraestrutura On-premise e Cloud AWS
 - AWS Certified
 - Poços de Caldas - MG, Brasil  
-- Aprendendo: Aperfeiçoamento em Cybersegurança.
 <a href="https://linkedin.com/in/guilhermeflauzino">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
