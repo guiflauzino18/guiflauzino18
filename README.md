@@ -1,6 +1,6 @@
 ## Olá, sou o Guilherme 👋
 
-- Dev: Java, Go.
+- Dev: Java, Go, Typescript
 - Analista de Infraestrutura On-premise e Cloud AWS
 - AWS Certified
 - Poços de Caldas - MG, Brasil  
