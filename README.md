@@ -1,6 +1,7 @@
 ## Olá, sou o Guilherme 👋
 
-- Dev: Java, Go, Typescript
+- Dev: Java, Go, Typescript.
+- Frameworks: Angular, React, React Native, Expo, Tailwind
 - Analista de Infraestrutura On-premise e Cloud AWS
 - AWS Certified
 - Poços de Caldas - MG, Brasil  
